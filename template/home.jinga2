@@ -29,10 +29,11 @@
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dresses <b class="caret"></b></a>
 								<ul class="dropdown-menu">
-									<li><a href="#">T-shirts</a><img src="/home/astha/Documents/web/greey.jpg">
+									<li><a href="#">T-shirts</a>
+									<a href="layout.html"><img src="/home/astha/Documents/web/greey.jpg"></a>
 									<a href="layout.html"><img src="/home/astha/Documents/web/grey.jpg" title="/home/astha/cam.py"> </a>
-									<img src="/home/astha/Documents/web/only.jpg">
-									<img src="/home/astha/Documents/web/super.jpg">
+									<a href="layout.html"><img src="/home/astha/Documents/web/only.jpg"></a>
+									<a href="layout.html"><img src="/home/astha/Documents/web/super.jpg"></a>
 									</li>
 								</ul>
 							</li>
