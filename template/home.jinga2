@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>VOS</title>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<body>
+<div class="container">
+		<div class="jumbotron"><h1>Virtual online shopping</h1></div>
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<span class="sr-only">Camera Capture</span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">SHOP</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-ex1-collapse">
+						<ul class="nav navbar-nav">
+							<li class="active"><a href="#">TRY</a></li>
+							<li><a href="#">TRY</a></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dresses <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="#">T-shirts</a><img src="/home/astha/Documents/web/greey.jpg">
+									<a href="layout.html"><img src="/home/astha/Documents/web/grey.jpg" title="/home/astha/cam.py"> </a>
+									<img src="/home/astha/Documents/web/only.jpg">
+									<img src="/home/astha/Documents/web/super.jpg">
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		<div class="jumbotron">
+			<div class="row">
+				<div class="col-md-4">
+					<div role="tabpanel">
+					    <!-- Nav tabs -->
+					    <ul class="nav nav-tabs" role="tablist">
+					        <li role="presentation" class="active">
+					            <a href="#first"  role="tab" data-toggle="tab">Rule First</a>
+					        </li>
+					        <li role="presentation">
+					            <a href="#second"  role="tab" data-toggle="tab">Rule Second</a>
+					        </li>
+					    </ul>
+					
+					    <!-- Tab panes -->
+					    <div class="tab-content">
+					        <div role="tabpanel" class="tab-pane active fade in" id="first"><h1>Rule First</h1>Tie on your hair and stand infront of the webcam.</div>
+					        <div role="tabpanel" class="tab-pane fade" id="second"><h1>Rule Second</h1>Now just stand infront of a dark background. </div>
+					    </div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+	<script src="scripts/jquery.min.js"></script>
+		<!-- Bootstrap JavaScript -->
+	<script src="scripts/bootstrap.min.js"></script>
+</body>
+</html>
